@@ -1,0 +1,399 @@
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+    /* nav  */
+    .navbar-nav {
+
+        text-align: center;
+    }
+
+    .d-flex .btn {
+        margin-left: 170px;
+    }
+
+    .navbar-collapse .dots_image {
+        margin-left: 235px;
+        margin-top: 20px;
+    }
+    .navbar-nav li a::after {
+        left: 47%;
+    }
+    
+    .navbar-nav li a::before {
+        left: 52%;
+    }
+
+    /* nav  */
+
+    /* banner  */
+    .banner_text_all h3 {
+        font-size: 30px;
+    }
+
+    .banner_text_all h4 {
+        font-size: 30px;
+    }
+
+    .banner_inner {
+        padding-top: 30px;
+    }
+
+    .banner_button {
+        margin-top: 20px;
+        margin-left: 0px;
+    }
+
+    .mic_image img {
+        width: 30%;
+        margin-left: 230px;
+    }
+
+    .play_button img {
+        margin-top: 30px;
+        margin-left: 15px;
+    }
+
+    /* banner  */
+    /* about */
+    .about_all {
+        padding-top: 80px;
+        padding-bottom: 50px;
+    }
+
+    .boooox {
+        position: absolute;
+        top: -50px;
+        left: -10px;
+        z-index: -1;
+    }
+
+    .boooox img {
+        width: 80px;
+    }
+
+    .about_up .about_up_1 h3 {
+        font-size: 30px;
+    }
+
+    .about_up .about_up_2 p {
+        margin-top: 20px;
+        margin-left: 90px;
+        border: 1px solid black;
+        padding: 10px;
+        border-radius: 10px;
+    }
+
+    .about_up .about_up_3 p {
+        margin-left: 90px;
+        border: 1px solid black;
+        padding: 10px;
+        border-radius: 10px;
+    }
+
+    .about__l h3,
+    .about__l p {
+        margin-left: 60px;
+
+    }
+
+    /* about */
+    /* gallery */
+    .gallery_main {
+        padding: 30px 0;
+    }
+
+    .gal_text {
+        text-align: center;
+        margin-top: 50px;
+    }
+
+    .gal_text img {
+        top: -10px;
+        left: 40px;
+        width: 20%;
+    }
+
+    .gal_text h3 {
+        font-size: 30px;
+    }
+
+    .gal_img img {
+        margin-bottom: 20px;
+    }
+
+    .gal_text_down {
+        margin-left: 30px;
+        margin-top: 50px;
+    }
+
+    /* gallery */
+
+    /* counter  */
+    .counter_all {
+        margin-bottom: 20px;
+    }
+
+    .counter_main .row .col-lg-4 {
+        width: 50%;
+    }
+
+    .counter_main .row .col-lg-8 {
+        width: 50%;
+        padding-bottom: 20px;
+    }
+
+    .counter_left_img img {
+        margin-top: 10px;
+        width: 50%;
+    }
+
+    .counter_right_all {
+        margin-top: 0;
+    }
+
+    .counter_right_text {
+        margin-left: 5px;
+        margin-top: 30px;
+    }
+
+    .counter_right_text h4 {
+        font-size: 9px;
+        display: inline;
+
+    }
+
+    .counter-days,
+    .counter-hours,
+    .counter-minutes,
+    .counter-seconds {
+        font-size: 20px;
+
+    }
+
+    .c_day h3,
+    .c_hour h3,
+    .c_minutes h3,
+    .c_seconds h3 {
+        margin-left: -1px;
+        font-size: 10px;
+
+    }
+
+    .counter-days::after,
+    .counter-hours::after,
+    .counter-minutes::after {
+        top: 5px;
+        left: 35px;
+        font-size: 12px;
+        color: #f94743;
+    }
+
+    .counter_btn button {
+        margin-top: 5px;
+        margin-left: -90px;
+        padding: 5px 15px;
+    }
+
+    .counter_btn button p {
+        font-size: 10px;
+    }
+
+    /* counter  */
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+    /* nav  */
+    .navbar-nav {
+
+        text-align: center;
+    }
+
+    .d-flex .btn {
+        margin-left: 260px;
+    }
+
+    .navbar-collapse .dots_image {
+        margin-left: 325px;
+        margin-top: 20px;
+    }
+    .navbar-nav li a::after {
+        left: 47%;
+    }
+    
+    .navbar-nav li a::before {
+        left: 52%;
+    }
+
+    /* nav  */
+
+    /* banner  */
+    .banner_text_all h3 {
+        font-size: 40px;
+    }
+
+    .banner_text_all h4 {
+        font-size: 40px;
+    }
+
+    .banner_inner {
+        padding-top: 30px;
+    }
+
+    .banner_button {
+        margin-top: 30px;
+        margin-left: 0px;
+    }
+
+    .mic_image img {
+        width: 30%;
+        margin-left: 250px;
+    }
+
+    .play_button img {
+        margin-top: 30px;
+        margin-left: 70px;
+    }
+
+    /* banner  */
+    /* about */
+    .about_all {
+        padding-top: 80px;
+        padding-bottom: 50px;
+    }
+
+    .boooox {
+        position: absolute;
+        top: -50px;
+        left: -10px;
+        z-index: -1;
+    }
+
+    .boooox img {
+        width: 80px;
+    }
+
+    .about_up .about_up_1 h3 {
+        font-size: 30px;
+        margin-bottom: 30px;
+    }
+
+    .about_up .about_up_2 p {
+
+        margin-left: 0px;
+        border: 1px solid black;
+        padding: 10px;
+        border-radius: 10px;
+    }
+
+    .about_up .about_up_3 p {
+        margin-left: 0px;
+        border: 1px solid black;
+        padding: 10px;
+        border-radius: 10px;
+    }
+
+    .about__l h3,
+    .about__l p {
+        margin-left: 110px;
+    }
+
+    /* about */
+    /* gallery */
+    .gallery_main {
+        padding: 30px 0;
+    }
+
+    .gal_text {
+        text-align: center;
+        margin-top: 100px;
+    }
+
+    .gal_text img {
+        top: -10px;
+        left: 80px;
+        width: 15%;
+    }
+
+    .gal_text h3 {
+        font-size: 30px;
+
+    }
+
+    .gal_img img {
+        width: 100%;
+        margin-left: 0;
+        margin-bottom: 20px;
+    }
+
+    .gal_text_down {
+        margin-left: 80px;
+        margin-top: 110px;
+    }
+
+    /* gallery */
+
+    /* counter  */
+    .counter_all {
+        margin-bottom: 20px;
+    }
+
+
+
+    .counter_left_img img {
+        margin-top: 20px;
+        width: 70%;
+    }
+
+    .counter_right_all {
+        margin-top: 100px;
+    }
+
+    .counter_right_text {
+        margin-left: 5px;
+    }
+
+    .counter_right_text h4 {
+        font-size: 12px;
+        display: inline;
+    }
+
+    .counter-days,
+    .counter-hours,
+    .counter-minutes,
+    .counter-seconds {
+        font-size: 20px;
+        margin-left: -20px;
+
+    }
+
+    .c_day h3,
+    .c_hour h3,
+    .c_minutes h3,
+    .c_seconds h3 {
+        margin-left: -20px;
+        font-size: 10px;
+
+    }
+
+    .counter-days::after,
+    .counter-hours::after,
+    .counter-minutes::after {
+        top: 5px;
+        left: 35px;
+        font-size: 12px;
+        color: #f94743;
+    }
+
+    .counter_btn button {
+        margin-top: 10px;
+        padding: 5px 15px;
+        margin-left: -5px;
+    }
+
+    .counter_btn button p {
+        font-size: 12px;
+    }
+
+    /* counter  */
+}
